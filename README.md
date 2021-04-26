@@ -15,6 +15,10 @@ Homeworks
 8 : I/O
 9 : Classes
 10 : Importing
+11 : Error Handling
 
 Projects
 1 : Connect 4
+2 : Hangman
+
+*Saved as Python files and also compiled in Jupyter Notebook*
