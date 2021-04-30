@@ -1,4 +1,4 @@
-# myHomework_pirple
+# myHomework&Project_pirple
 Pirple.com | Python Is Easy - Course
 
 This is my compilation of homeworks and projects througout the whole course of
