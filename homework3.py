@@ -9,7 +9,6 @@ Homework # 3 : "If" Statements
 #You should modify it so that it returns true instead of false.
 
 
-
 def function(a,b,c):
     
     #"int" to convert strings to integers
