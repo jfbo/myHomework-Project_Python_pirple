@@ -21,4 +21,4 @@ Projects\
 1 : Connect 4\
 2 : Hangman
 
-*Saved as Python files and also compiled in Jupyter Notebook*
+*Saved as Python files and also compiled in Jupyter Notebook (including resource notes)*
