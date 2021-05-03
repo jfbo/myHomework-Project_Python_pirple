@@ -19,6 +19,7 @@ Homeworks\
 
 Projects\
 1 : Connect 4\
-2 : Hangman
+2 : Hangman\
+3 : "War" Card Game
 
 *Saved as Python files and also compiled in Jupyter Notebook (including resource notes)*
