@@ -8,6 +8,13 @@
 Homework # 5 : Basic Loops
 "Fizz Buzz"
 '''
+#Write a program that prints the numbers from 1 to 100.
+#But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz".
+#For numbers which are multiples of both three and five print "FizzBuzz".
+#Instead of only printing "fizz", "buzz", and "fizzbuzz", add a fourth print statement: "prime". 
+#You should print this whenever you encounter a number that is prime (divisible only by itself and one).
+
+
 
 # code showing numbers involved with "fizz", "buzz", "fizzbuzz", and "prime"
 for numbers in range(1,101):
