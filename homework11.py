@@ -1,10 +1,15 @@
 '''
 Homework # 11 : Error Handling
 '''
+#For this assignment you can choose any of the homeworks or projects you've done so far. 
+#Pick a function that you know is particularly problematic and add try/except/finally cases to it so that it can handle the errors more gracefully.
+#Below your function, add 10 - 20 tests that call your function in different ways, and show that it can now handle various different conditions and cases.
 
-#Applying "Error Handling" to homework # 3
+
 '''
+Applying "Error Handling" to homework # 3
 Code of my previous homework...
+
 Homework # 3 : "If" Statements
 
 def function(a,b,c):
